@@ -4,4 +4,4 @@ let gewicht = 103;
 
 let bmi = gewicht / (groesse * groesse);
 
-alert(bmi);
+console.log(bmi);
